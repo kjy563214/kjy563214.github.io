@@ -6,7 +6,7 @@
   <link href="https://kjy563214.github.io/atom.xml" rel="self"/>
   
   <link href="https://kjy563214.github.io/"/>
-  <updated>2021-01-22T08:11:09.312Z</updated>
+  <updated>2021-01-22T08:37:10.097Z</updated>
   <id>https://kjy563214.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kjy563214.github.io/uncategorized/Test-Page/"/>
     <id>https://kjy563214.github.io/uncategorized/Test-Page/</id>
     <published>2021-01-22T08:10:38.000Z</published>
-    <updated>2021-01-22T08:11:09.312Z</updated>
+    <updated>2021-01-22T08:37:10.097Z</updated>
     
     <content type="html"><![CDATA[<p>这是个置顶文章</p><a id="more"></a><p>置顶</p>]]></content>
     
@@ -35,10 +35,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://kjy563214.github.io/uncategorized/Hello-World/"/>
-    <id>https://kjy563214.github.io/uncategorized/Hello-World/</id>
+    <link href="https://kjy563214.github.io/hello-world/Hello-World/"/>
+    <id>https://kjy563214.github.io/hello-world/Hello-World/</id>
     <published>2021-01-22T08:00:38.000Z</published>
-    <updated>2021-01-22T08:01:10.894Z</updated>
+    <updated>2021-01-22T09:04:24.365Z</updated>
     
     <content type="html"><![CDATA[<p>Hello World!</p><a id="more"></a><h1 id="First-Blog"><a href="#First-Blog" class="headerlink" title="First Blog"></a>First Blog</h1>]]></content>
     
@@ -46,6 +46,8 @@
     <summary type="html">&lt;p&gt;Hello World!&lt;/p&gt;</summary>
     
     
+    
+    <category term="hello world" scheme="https://kjy563214.github.io/categories/hello-world/"/>
     
     
   </entry>
