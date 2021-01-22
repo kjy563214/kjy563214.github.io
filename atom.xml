@@ -6,7 +6,7 @@
   <link href="https://kjy563214.github.io/atom.xml" rel="self"/>
   
   <link href="https://kjy563214.github.io/"/>
-  <updated>2021-01-22T07:38:29.096Z</updated>
+  <updated>2021-01-22T08:01:10.894Z</updated>
   <id>https://kjy563214.github.io/</id>
   
   <author>
@@ -17,16 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>helloworld</title>
-    <link href="https://kjy563214.github.io/uncategorized/helloworld/"/>
-    <id>https://kjy563214.github.io/uncategorized/helloworld/</id>
-    <published>2021-01-22T07:38:08.000Z</published>
-    <updated>2021-01-22T07:38:29.096Z</updated>
+    <title>Hello World</title>
+    <link href="https://kjy563214.github.io/uncategorized/Hello-World/"/>
+    <id>https://kjy563214.github.io/uncategorized/Hello-World/</id>
+    <published>2021-01-22T08:00:38.000Z</published>
+    <updated>2021-01-22T08:01:10.894Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello World !</p><a id="more"></a><p>First blog</p>]]></content>
+    <content type="html"><![CDATA[<p>Hello World!</p><a id="more"></a><h1 id="First-Blog"><a href="#First-Blog" class="headerlink" title="First Blog"></a>First Blog</h1>]]></content>
     
     
-    <summary type="html">&lt;p&gt;Hello World !&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hello World!&lt;/p&gt;</summary>
     
     
     
